@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" width="220" alt="Figura Cloud Logo">
+  <img src="file_00000000f0847209b1af7320e17aeb46.png" width="220" alt="Figura Cloud Logo">
 </p>
 
 <h1 align="center">Figura Cloud</h1>
